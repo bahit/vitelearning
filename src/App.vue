@@ -5,6 +5,7 @@ import HelloWorld from './components/HelloWorld.vue'
 <template>
     <h1>Bahit was here</h1>
     <HelloWorld />
+    Bahit was here
 </template>
 
 <style scoped>
